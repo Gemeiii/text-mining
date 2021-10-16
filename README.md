@@ -1,0 +1,2 @@
+-	A comparison of the work from Mark Twain, Leo Tolstoy and Charles Dickens, and find which two authors are more alike.
+-	Discover how sentiment changes in Victor Hugo’s Les Miserables and Charles Dickens’ A Tale of Two Cities.  
